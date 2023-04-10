@@ -3,8 +3,8 @@
  *
  * @brief      This file implements main. Please Comment you code
  *
- * @author     Enter Your name and Student ID here.
- * @date       2023
+ * @author     Fawaz Ahmed & 21k-4717
+ * 10 april 2023
  */
 
 #include <stdio.h>
