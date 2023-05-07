@@ -2,7 +2,7 @@
 # Assign 02 - Multiprocess Conway Game
 |Name|Id|
 |-|-|
-|Add your name here|kYY-xxxx|
+|Add your name here|k21-4717|
 
 
 ## Intro
